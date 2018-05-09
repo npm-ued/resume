@@ -1,0 +1,30 @@
+{
+  "name": "vicshang",
+  "version": "1.0.1",
+  "description": "resume of vicshang ",
+  "main": "index.js",
+  "bin": {
+    "vicshang": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm-ued/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "vicshang"
+  ],
+  "author": "npm-ued",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm-ued/resume/issues"
+  },
+  "homepage": "https://github.com/npm-ued/resume#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "figlet": "^1.2.0"
+  }
+}
